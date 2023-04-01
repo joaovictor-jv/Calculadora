@@ -2,6 +2,8 @@
 
 #### Calculadora desenvolvida no curso de JavaScript
 
+ - Apenas a lógica da calculadora foi desenvolvida nesse projeto
+
 <h4>Acesse a calculadora:</h4>
 https://calchcj.netlify.app/
 
